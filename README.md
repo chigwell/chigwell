@@ -90,9 +90,10 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 
 ### 📈 GitHub Stats
 
-![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell\&show_icons=true\&include_all_commits=true)
+<!---![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell\&show_icons=true\&include_all_commits=true)-->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chigwell)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=chigwell)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=chigwell&theme=light&hide_border=true&short_numbers=true)
 
 ---
 
