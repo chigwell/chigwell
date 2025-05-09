@@ -91,9 +91,9 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 ### 📈 GitHub Stats
 
 <!---![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell\&show_icons=true\&include_all_commits=true)-->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/chigwell)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=chigwell&theme=light&hide_border=true&short_numbers=true)
+[![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+![Eugene's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)
+![Eugene's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=chigwell&theme=light&hide_border=true&short_numbers=true)
 
 ---
 
@@ -165,6 +165,11 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 
 ---
 
-> “Simplicity is the soul of efficiency.” — Austin Freeman
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
 
 [![Profile views](https://komarev.com/ghpvc/?username=chigwell\&style=flat-square)](https://github.com/chigwell)
+[![Gist](https://img.shields.io/github/followers/chigwell?label=Follow&style=social)](https://github.com/chigwell)
+
+
