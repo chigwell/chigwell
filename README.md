@@ -167,9 +167,9 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
+![Eugene's Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
 
-[![Profile views](https://komarev.com/ghpvc/?username=chigwell\&style=flat-square)](https://github.com/chigwell)
-[![Gist](https://img.shields.io/github/followers/chigwell?label=Follow&style=social)](https://github.com/chigwell)
+[![Eugene's Profile views](https://komarev.com/ghpvc/?username=chigwell&style=flat-square)](https://github.com/chigwell)
+[![Eugene's Followers](https://img.shields.io/github/followers/chigwell?label=Follow&style=social)](https://github.com/chigwell)
 
 
