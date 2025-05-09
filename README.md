@@ -165,7 +165,7 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 
 ---
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Eugene's Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
 
