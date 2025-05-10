@@ -10,8 +10,8 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 
 * 📍 Based in Cambridge, UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧
 * 🏆 11+ years in tech - from junior full‑stack dev to system architect & tech product owner
-* 🛠️ Creator/maintainer of open‑source Python tools with **>700k** downloads
-* ✨ Top‑5 contributor on [Stack Overflow RU](https://stackexchange.com/leagues/609/quarter/ru-stackoverflow/2025-04-01/261321#261321) (**\~500k+** users)
+* 🛠️ Creator/maintainer of open‑source Python tools with **>710k** downloads
+* ✨ Top‑5 contributor on [Stack Overflow RU](https://stackexchange.com/leagues/609/quarter/ru-stackoverflow/2025-04-01/261321#261321) (**\~518,410+** users)
 * 🎓 Mentoring students & reviewing papers for AI conferences (ICLR 2025, CHIL 2025, MathAI 2025)
 
 ---
