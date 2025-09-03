@@ -8,7 +8,7 @@
 
 I’m **Evgenii “Eugene” Evstafev**, a software developer at the **University of Cambridge (UIS)** passionate about **Python, TypeScript/React, system architecture and ML/AI**.
 
-* 📍 Based in Cambridge, UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧
+* 📍 Based in Peterborough, UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧
 * 🏆 11+ years in tech - from junior full‑stack dev to system architect & tech product owner
 * 🛠️ Creator/maintainer of open‑source Python tools with **>705k** downloads
 * ✨ Top‑5 contributor on [Stack Overflow RU](https://stackexchange.com/leagues/609/quarter/ru-stackoverflow/2025-04-01/261321#261321) (**\~520,347+** users)
