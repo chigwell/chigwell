@@ -160,7 +160,7 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 * 🤝 **LinkedIn**: [linkedin.com/in/eugene-evstafev-716669181](https://linkedin.com/in/eugene-evstafev-716669181/)
 * 🧠 **Stack Overflow**: [ru.stackoverflow.com/users/261321/evgenii-evstafev](https://ru.stackoverflow.com/users/261321/evgenii-evstafev)
 * 📚 **Google Scholar**: [scholar.google.com/citations?user=cYLfW7QAAAAJ](https://scholar.google.com/citations?user=cYLfW7QAAAAJ)
-* ✉️ **Email**: [ee345@cam.ac.uk](mailto:ee345@cam.ac.uk) / [chigwel@gmail.com](mailto:chigwel@gmail.com)
+* ✉️ **Email**: [hi@eugene.plus](mailto:hi@eugene.plus)
 * 📝 **ORCID**: [orcid.org/0009-0007-2790-1895](https://orcid.org/0009-0007-2790-1895)
 
 ---
