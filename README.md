@@ -84,15 +84,13 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 
 ### 🏆 GitHub Trophies
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=chigwell\&theme=flat\&margin-w=10\&margin-h=10\&no-frame=true)
+![](https://github-trophies.vercel.app/?username=chigwell)
+
 
 ---
 
 ### 📈 GitHub Stats
 
-<!---![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell\&show_icons=true\&include_all_commits=true)-->
-[![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-![Eugene's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)
 ![Eugene's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=chigwell&theme=light&hide_border=true&short_numbers=true)
 
 ---
