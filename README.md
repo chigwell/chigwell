@@ -1,12 +1,8 @@
-## Hi there, I'm Eugene 👋
+## Hi there, I'm Eugene 👋 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
 
----
-
-### 👨‍💻 About Me
-
-I’m **Evgenii “Eugene” Evstafev**, a software developer at the **University of Cambridge (UIS)** passionate about **Python, TypeScript/React, system architecture and ML/AI**.
+I'm **Evgenii “Eugene” Evstafev**, a software developer at the **University of Cambridge (UIS)** passionate about **Python, TypeScript/React, system architecture and ML/AI**.
 
 * 📍 Based in Peterborough, UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧
 * 🏆 11+ years in tech - from junior full‑stack dev to system architect & tech product owner
