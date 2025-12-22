@@ -91,6 +91,7 @@ I’m **Evgenii “Eugene” Evstafev**, a software developer at the **Universit
 
 ### 📈 GitHub Stats
 
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/chigwell)
 <!---![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell\&show_icons=true\&include_all_commits=true)-->
 [![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 ![Eugene's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)
