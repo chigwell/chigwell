@@ -93,6 +93,10 @@ I'm **Evgenii “Eugene” Evstafev**, a software developer at the **University 
 ![Eugene's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)
 ![Eugene's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=chigwell&theme=light&hide_border=true&short_numbers=true)
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chigwell" alt="Profile Details" />
+</div>
+
 ---
 
 ### 📦 Packages & Downloads
