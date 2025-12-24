@@ -1,4 +1,6 @@
-## Hi there, I'm Eugene 👋 👨‍💻
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%2C%20I%27m%20Eugene%20%F0%9F%91%8B%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=&descAlignY=55&descAlign=62" alt="Header" width="100%" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
 
