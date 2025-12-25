@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%2C%20I%27m%20Eugene%20%F0%9F%91%8B%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=&descAlignY=55&descAlign=62" alt="Header" width="100%" />
+  <a href="https://linkedin.com/in/eugene-evstafev-716669181/" taget="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%2C%20I%27m%20Eugene%20%F0%9F%91%8B%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=&descAlignY=55&descAlign=62" alt="Header" width="100%" /></a>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
-
-I'm **Evgenii “Eugene” Evstafev**, a software developer at the **University of Cambridge (UIS)** passionate about **Python, TypeScript/React, system architecture and ML/AI**.
+I'm [**Evgenii “Eugene” Evstafev**](https://linkedin.com/in/eugene-evstafev-716669181/), a software developer at the **University of Cambridge (UIS)** passionate about **Python, TypeScript/React, system architecture and ML/AI**.
 
 * 📍 Based in Peterborough, UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧
 * 🏆 11+ years in tech - from junior full‑stack dev to system architect & tech product owner
@@ -152,14 +150,12 @@ I'm **Evgenii “Eugene” Evstafev**, a software developer at the **University 
 
 ### 📫 Let’s Connect
 
-* 🐙 **GitHub**: [github.com/chigwell](https://github.com/chigwell)
+* 🤝 **LinkedIn**: [linkedin.com/in/eugene-evstafev-716669181](https://linkedin.com/in/eugene-evstafev-716669181/)
 * 🦊 **GitLab**: [gitlab.developers.cam.ac.uk/ee345](https://gitlab.developers.cam.ac.uk/ee345)
 * 📦 **PyPI**: [pypi.org/user/eugene.evstafev](https://pypi.org/user/eugene.evstafev/)
 * 🎥 **YouTube**: [youtube.com/@chigwel](https://youtube.com/@chigwel)
 * ✍️ **Blog**: [medium.com/@chigwel](https://medium.com/@chigwel)
 * 🐦 **Twitter (X)**: [x.com/eugeneevstafev](https://x.com/eugeneevstafev)
-* 🤝 **LinkedIn**: [linkedin.com/in/eugene-evstafev-716669181](https://linkedin.com/in/eugene-evstafev-716669181/)
-* 🧠 **Stack Overflow**: [ru.stackoverflow.com/users/261321/evgenii-evstafev](https://ru.stackoverflow.com/users/261321/evgenii-evstafev)
 * 📚 **Google Scholar**: [scholar.google.com/citations?user=cYLfW7QAAAAJ](https://scholar.google.com/citations?user=cYLfW7QAAAAJ)
 * ✉️ **Email**: [hi@eugene.plus](mailto:hi@eugene.plus)
 * 📝 **ORCID**: [orcid.org/0009-0007-2790-1895](https://orcid.org/0009-0007-2790-1895)
@@ -170,6 +166,8 @@ I'm **Evgenii “Eugene” Evstafev**, a software developer at the **University 
 
 ![Eugene's Coder GIF](https://wsrv.nl/?url=https://i.giphy.com/ZVik7pBtu9dNS.webp&output=gif&n=-1)
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
 [![Eugene's Profile views](https://komarev.com/ghpvc/?username=chigwell&style=flat-square)](https://github.com/chigwell)
 [![Eugene's Followers](https://img.shields.io/github/followers/chigwell?label=Follow&style=social)](https://github.com/chigwell)
 
