@@ -156,7 +156,7 @@ I'm [**Evgenii “Eugene” Evstafev**](https://linkedin.com/in/eugene-evstafev-
 * 🎥 **YouTube**: [youtube.com/@chigwel](https://youtube.com/@chigwel)
 * ✍️ **Blog**: [medium.com/@chigwel](https://medium.com/@chigwel)
 * 🐦 **Twitter (X)**: [x.com/eugeneevstafev](https://x.com/eugeneevstafev)
-* 📚 **Google Scholar**: [scholar.google.com/citations?user=cYLfW7QAAAAJ](https://scholar.google.com/citations?user=cYLfW7QAAAAJ
+* 📚 **Google Scholar**: [scholar.google.com/citations?user=cYLfW7QAAAAJ](https://scholar.google.com/citations?user=cYLfW7QAAAAJ)
 * 📝 **ORCID**: [orcid.org/0009-0007-2790-1895](https://orcid.org/0009-0007-2790-1895))
 * ✉️ **Email**: [hi@eugene.plus](mailto:hi@eugene.plus)
 
