@@ -144,8 +144,8 @@ I'm [**Evgenii “Eugene” Evstafev**](https://linkedin.com/in/eugene-evstafev-
 [![code-annotator](https://static.pepy.tech/personalized-badge/code-annotator?left_text=code-annotator&period=total&units=abbreviation&left_color=grey&right_color=orange)](https://pepy.tech/projects/code-annotator)
 [![imgwizard](https://static.pepy.tech/personalized-badge/imgwizard?left_text=imgwizard&period=total&units=abbreviation&left_color=grey&right_color=orange)](https://pepy.tech/projects/imgwizard)
 [![text2pix](https://static.pepy.tech/personalized-badge/text2pix?left_text=text2pix&period=total&units=abbreviation&left_color=grey&right_color=orange)](https://pepy.tech/projects/text2pix)
-[![llmatch](https://static.pepy.tech/personalized-badge/llmatch?left_text=llmatch&period=total&units=abbreviation&left_color=grey&right_color=orange)](https://pepy.tech/projects/llmatch)
 [![findora](https://static.pepy.tech/personalized-badge/findora?left_text=findora&period=total&units=abbreviation&left_color=grey&right_color=orange)](https://pepy.tech/projects/findora)
+[![llmatch](https://static.pepy.tech/personalized-badge/llmatch?left_text=llmatch&period=total&units=abbreviation&left_color=grey&right_color=orange)](https://pepy.tech/projects/llmatch)
 
 
 ### 📫 Let’s Connect
