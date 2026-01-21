@@ -2,7 +2,7 @@
   <a href="https://linkedin.com/in/eugene-evstafev-716669181/" taget="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%2C%20I%27m%20Eugene%20%F0%9F%91%8B%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=&descAlignY=55&descAlign=62" alt="Header" width="100%" /></a>
 </div>
 
-I'm [**Evgenii “Eugene” Evstafev**](https://linkedin.com/in/eugene-evstafev-716669181/), a software developer at the **University of Cambridge (UIS)** passionate about **Python, TypeScript/React, system architecture and ML/AI**.
+I'm [**Evgenii “Eugene” Evstafev**](https://linkedin.com/in/eugene-evstafev/), a software developer at the **University of Cambridge (UIS)** passionate about **Python, TypeScript/React, system architecture and ML/AI**.
 
 * 📍 Based in Peterborough, UK 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧
 * 🏆 11+ years in tech - from junior full‑stack dev to system architect & tech product owner
