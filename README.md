@@ -86,11 +86,11 @@ I'm [**Evgenii “Eugene” Evstafev**](https://linkedin.com/in/eugene-evstafev/
 
 <!---![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/chigwell)-->
 <!---![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell\&show_icons=true\&include_all_commits=true)-->
-[![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-![Eugene's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)
+<!---[![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=chigwell&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)-->
+<!---![Eugene's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigwell\&layout=compact)-->
 ![Eugene's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=chigwell&theme=light&hide_border=true&short_numbers=true)
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chigwell" alt="Profile Details" />
 </div>
 
